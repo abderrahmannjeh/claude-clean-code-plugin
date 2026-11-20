@@ -1,0 +1,12 @@
+{
+  "name": "clean-code-marketplace",
+  "owner": { "name": "Abderrahman Njeh" },
+  "metadata": { "description": "Plugins de qualité de code (Clean Code)." },
+  "plugins": [
+    {
+      "name": "clean-code",
+      "source": "./plugins/clean-code",
+      "description": "Applique automatiquement les règles Clean Code à chaque écriture de code."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "author": { "name": "Abderrahman Njeh" },
+  "description": "Fait appliquer à Claude les règles Clean Code (nommage, fonctions courtes, SRP, DRY, gestion d'erreurs…) à chaque fois qu'il écrit ou modifie du code.",
+  "keywords": ["clean-code", "quality", "refactoring", "best-practices"]
+}
